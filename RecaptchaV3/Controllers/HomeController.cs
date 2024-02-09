@@ -41,7 +41,7 @@ namespace RecaptchaV3.Controllers
         }
 
         [HttpGet]
-        public async Task<JsonResult> Verify(string token)
+        public async Task<JsonResult> VerifyToken(string token)
         {
             var verified = await _recaptcha.VerifyRecaptchaTokenAsync(token);
 
