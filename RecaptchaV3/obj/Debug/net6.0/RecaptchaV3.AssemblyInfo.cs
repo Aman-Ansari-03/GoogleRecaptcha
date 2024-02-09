@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecaptchaV3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+416c15bc9b4ec81f8582bed873584b9033a8e66b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acb143064b1089f39b263c7f778df7c4fbce2425")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecaptchaV3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecaptchaV3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
